@@ -1,0 +1,2 @@
+# fix_error_gradle_does_not_support_android_studio
+Import proyect github androidstudio
